@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/protobuf/Persion.pb.cc.o CMakeFiles/test.dir/protobuf/Info.pb.cc.o -o ../bin/test  -lprotobuf 

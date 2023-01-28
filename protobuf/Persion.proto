@@ -1,0 +1,21 @@
+syntax = "proto3";  //指定版本proto3
+import "Info.proto";
+//语法格式 message指定生成出类的名字
+//数据类型 变量名 = 变量的编号 (编号从1开始)
+//生成输出文件的命令    protoc xxx.proto --cpp_out=./
+//repeated 数组
+enum Color
+{
+    Red = 0;
+    Green = 16;
+    Blue = 9;
+}
+message Persion
+{
+    int32 id = 1;
+    repeated bytes name = 2;
+    bytes sex  = 3;
+    int32 age = 4;
+    Color color = 5;
+    Info info =6;
+}

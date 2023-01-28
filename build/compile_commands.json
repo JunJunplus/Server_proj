@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/build",
+  "command": "/usr/bin/g++  -I/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/./protobuf -g -o CMakeFiles/test.dir/test.cpp.o -c /mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/test.cpp",
+  "file": "/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/test.cpp"
+},
+{
+  "directory": "/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/build",
+  "command": "/usr/bin/g++  -I/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/./protobuf -g -o CMakeFiles/test.dir/protobuf/Persion.pb.cc.o -c /mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/protobuf/Persion.pb.cc",
+  "file": "/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/protobuf/Persion.pb.cc"
+},
+{
+  "directory": "/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/build",
+  "command": "/usr/bin/g++  -I/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/./protobuf -g -o CMakeFiles/test.dir/protobuf/Info.pb.cc.o -c /mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/protobuf/Info.pb.cc",
+  "file": "/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/protobuf/Info.pb.cc"
+}
+]

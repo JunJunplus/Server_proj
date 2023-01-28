@@ -1,0 +1,3 @@
+/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/build/CMakeFiles/test.dir
+/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Linux/VSWorkSpace/Bili_FinanceProj/build/CMakeFiles/rebuild_cache.dir
